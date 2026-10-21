@@ -9,11 +9,11 @@
   color: white;
   display: flex;
   align-items: center;
-  justify-content: space-evenly; 
+  justify-content: space-between; 
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrgaOvGJjsSFJ2AYIk3xVMOVdLfFgXWgdUDdnY-0igB55bLMinsBKyeWohug&s");
   background-size: cover;
   height: 50px;
-  width: 100px
+  width: 100%;
 }
 .border {
   border: 2px, solid, transparent;
